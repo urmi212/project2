@@ -1,0 +1,10 @@
+D:\Simple Interest Calculator\bin\Debug\Simple Interest Calculator.exe.config
+D:\Simple Interest Calculator\bin\Debug\Simple Interest Calculator.exe
+D:\Simple Interest Calculator\bin\Debug\Simple Interest Calculator.pdb
+D:\Simple Interest Calculator\obj\Debug\Simple Interest Calculator.csprojAssemblyReference.cache
+D:\Simple Interest Calculator\obj\Debug\Simple_Interest_Calculator.Properties.Resources.resources
+D:\Simple Interest Calculator\obj\Debug\Simple Interest Calculator.csproj.GenerateResource.cache
+D:\Simple Interest Calculator\obj\Debug\Simple Interest Calculator.csproj.CoreCompileInputs.cache
+D:\Simple Interest Calculator\obj\Debug\Simple Interest Calculator.exe
+D:\Simple Interest Calculator\obj\Debug\Simple Interest Calculator.pdb
+D:\Simple Interest Calculator\obj\Debug\Simple_Interest_Calculator.peryear2Label.resources
